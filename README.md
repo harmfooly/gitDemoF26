@@ -6,3 +6,7 @@
 * two
 * three
 
+```
+This is formatted
+code
+```
